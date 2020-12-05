@@ -1,0 +1,1 @@
+SELECT CONCAT('Mehmet', ' Yalçýn') AS AD FROM DUAL;

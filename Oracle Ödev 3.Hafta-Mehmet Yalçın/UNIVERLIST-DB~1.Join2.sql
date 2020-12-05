@@ -1,0 +1,1 @@
+SELECT * FROM bolum_sýralama CROSS JOIN devlet_uný_sýralama

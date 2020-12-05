@@ -1,0 +1,1 @@
+SELECT INITCAP('korkma sönmez bu þafaklarda yüzen al sancak') from dual;

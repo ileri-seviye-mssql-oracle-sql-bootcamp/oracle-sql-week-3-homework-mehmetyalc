@@ -1,0 +1,1 @@
+SELECT LTRIM('------MEHMET------', '-') FROM DUAL;

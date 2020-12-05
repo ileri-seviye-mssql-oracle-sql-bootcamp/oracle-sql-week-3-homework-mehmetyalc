@@ -1,0 +1,1 @@
+SELECT RPAD('55',6,'0') FROM DUAL;

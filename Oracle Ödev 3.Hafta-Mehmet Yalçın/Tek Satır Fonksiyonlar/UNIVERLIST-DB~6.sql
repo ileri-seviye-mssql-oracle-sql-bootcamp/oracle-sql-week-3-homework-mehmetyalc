@@ -1,0 +1,1 @@
+SELECT SUBSTR('Oracle Veritabaný',3,4) FROM DUAL

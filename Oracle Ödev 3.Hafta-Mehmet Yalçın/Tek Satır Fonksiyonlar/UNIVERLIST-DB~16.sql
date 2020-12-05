@@ -1,0 +1,1 @@
+SELECT REVERSE('mehmetyalcin.com') FROM DUAL;

@@ -1,0 +1,1 @@
+SELECT REPLACE('Metin Güncelleme', 'Metin', 'Veri') FROM DUAL;

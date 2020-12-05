@@ -1,0 +1,2 @@
+SELECT* FROM bolum_memnunýyet_sýralama
+INNER JOIN memnunýyet_uný ON bolum_memnunýyet_sýralama.bolum_ýd=memnunýyet_uný."üniversite_sýralamasý"

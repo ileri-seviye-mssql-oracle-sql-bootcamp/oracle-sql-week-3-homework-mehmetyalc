@@ -1,0 +1,1 @@
+SELECT 'MEHMET ' || 'YALÇIN' | | ' SQL ÖÐRENÝYOR' FROM DUAL

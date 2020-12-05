@@ -1,0 +1,1 @@
+SELECT ASCII('M') from DUAL
